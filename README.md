@@ -6,6 +6,8 @@ Fully automated n8n workflow that generates and publishes faceless YouTube Short
 
 ## 🔄 How It Works
 
+![Workflow Overview](workflow-overview.png)
+
 1. **Triggers every 8 hours** via n8n scheduler
 2. **Fetches latest cybersecurity news** from The Hacker News RSS feed
 3. **Filters already-processed articles** using URL hashing to avoid duplicates
