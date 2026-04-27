@@ -1,4 +1,4 @@
-# 🤖 YouTube Shorts Faceless Video Bot
+# 🤖 YouTube - TikTok Shorts Faceless Video Bot
 
 Fully automated n8n workflow that generates and publishes faceless YouTube Shorts every 8 hours — zero manual work required.
 
