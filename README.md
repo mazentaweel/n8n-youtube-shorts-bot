@@ -2,6 +2,12 @@
 
 Fully automated n8n workflow that generates and publishes faceless YouTube Shorts every 8 hours — zero manual work required.
 
+## 🎬 Live Output
+
+Videos produced by this bot:
+- YouTube: https://www.youtube.com/@mazen.taweel/shorts
+- TikTok: https://www.tiktok.com/@cybersecurityshort
+
 ---
 
 ## 🔄 How It Works
